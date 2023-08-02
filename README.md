@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/desktop.png)
-![](./screenshot/mobile.png)
+![](./screenshot/desktop.webp)
+![](./screenshot/mobile.webp)
 
 - Solution URL: [https://github.com/appbraham/fylo-landing-page.git](https://github.com/appbraham/fylo-landing-page.git)
 - Live Site URL: [https://fylo-landing-page-livid-tau.vercel.app/](https://fylo-landing-page-livid-tau.vercel.app/)
