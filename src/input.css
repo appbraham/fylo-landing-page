@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Raleway";
+    src: url("../assets/Raleway-VariableFont_wght.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: "Open Sans";
+    src: url("../assets/OpenSans-VariableFont_wdth\,wght.ttf") format("truetype");
+  }
+
+  body{
+    @apply font-opensans;
+  }
+}
